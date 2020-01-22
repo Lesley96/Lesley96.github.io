@@ -1,12 +1,11 @@
 ## Yanjie Chen
 
 ### About me
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I am a third year graduate student in the School of Information Science and Technology in ShanghaiTech University, supervised by Prof.Hao Wang and Prof.Yanlin Geng. Before that, I got my bachelor’s degree from Beihang University. Currently my research focus on nonlinear optimization problems in machine learning.
 
 ### Education
++ 
++
 
 ### Work Experience
 
